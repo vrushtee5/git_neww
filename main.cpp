@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
 
+# thos is a commment
 int main(){
-    cout << "this is feature 1" << endl;
+    cout << "this is master" << endl;
+return 0;
 }
+
