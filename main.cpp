@@ -2,5 +2,5 @@
 using namespace std;
 
 int main(){
-    cout << "first git commit" << endl;
+    cout << "second git commit" << endl;
 }
