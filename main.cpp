@@ -3,5 +3,5 @@ using namespace std;
 
 # thos is a commment
 int main(){
-    cout << "third git commit" << endl;
+    cout << "this is feature1" << endl;
 }
